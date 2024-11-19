@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌃I am currently working on Kastii.me. <br>🧑🏿‍💻Using rasspery pi pico WH , esp 32, M5Stickc plus 2<br> 🌆I am working on security system with Pi Pico<br>🏙 My next project soon...
+🌃I am currently working on Kastii.me <br>🧑🏿‍💻Using rasspery pi pico WH , esp 32, M5Stickc plus 2<br> 🌆I am working on security system with Pi Pico<br>🏙 My next project soon...
 
 
 ## 🌐 Socials:
