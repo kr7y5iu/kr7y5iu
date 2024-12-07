@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌃I am currently working on Kastii.me <br>🧑🏿‍💻Using Raspberry Pi Pico WH, Pi 4, Esp32 S3lcd, Cardcomputer, Esp 32, M5StickC Plus 2, <br> 🌆I am working on security system with Pi Pico<br>🏙 My next project soon...
+🌃I am currently working on Kastii.me <br>🧑🏿‍💻Using Raspberry Pi Pico WH, Pi 4, Esp32 S3lcd, Cardcomputer, Esp 32, M5StickC Plus 2, NRF24 <br> 🌆I am working on Weather station on Esp 32<br>🏙 My next project soon...
 
 
 ## 🌐 Socials:
